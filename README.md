@@ -1,4 +1,5 @@
 # Sales Analysis Report
+![SALES ANALYSIS REPORT](https://github.com/user-attachments/assets/8e1eab5b-477c-4054-af99-5fe868a034cf)
 
 
 ## Problem Statement
